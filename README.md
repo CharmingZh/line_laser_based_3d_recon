@@ -1,4 +1,4 @@
-# Single/Dual-line laser based 3d reconstruction system.
+![AI_CONF_POSTER](https://github.com/user-attachments/assets/05fa43dc-53a7-411c-bd79-bb5111dc6fc0)
 
 ![c0b1a43a4ced8a67d3094d7a767bed0](https://github.com/user-attachments/assets/c6df8267-7209-4ff2-906f-ef44523dc153)
 
